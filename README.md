@@ -1,8 +1,8 @@
 # Text-Mining
 Text Mining using Yelp reviews data 
 
-This involves the analyses of text data on users’ review of restaurants and sentiment
-analyses. It is based on a collection of reviews and accompanying star ratings from Yelp. To keep the
+This analysis involves the analyses of text data on users’ review of restaurants and sentiment
+analysis. It is based on a collection of reviews and accompanying star ratings from Yelp. To keep the
 analysis manageable, a sample of the original dataset (over 8 million reviews by over a million
 users for 160K+ businesses) will be used here. We will examine the effectiveness of different sentiment
 ‘dictionaries’, and develop and evaluate classification models to help predict sentiment polarity
